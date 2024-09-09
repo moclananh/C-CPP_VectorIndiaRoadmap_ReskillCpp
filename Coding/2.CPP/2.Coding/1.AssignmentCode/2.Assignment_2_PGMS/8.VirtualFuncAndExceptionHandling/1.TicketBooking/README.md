@@ -1,0 +1,1 @@
+1.Design a ticket booking system for various modes of transport(bus,train,flight) where each mode of transport has a different fare calculation method. The system should use runtime polymorphism to dynamically calculate and display the fare based on the type of ticket

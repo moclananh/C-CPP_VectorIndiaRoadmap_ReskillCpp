@@ -1,0 +1,1 @@
+wap to implement a class student which is having members as name, percentage and age. The comparision operator using friend function should be overloaded in such a way that it should compare objects based on percenatages .if percentages are same then it should comapare age.

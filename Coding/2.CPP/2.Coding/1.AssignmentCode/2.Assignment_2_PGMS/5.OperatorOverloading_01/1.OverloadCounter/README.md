@@ -1,0 +1,1 @@
+write a program to overload unary operator for processing counters.It should support both upward and downward counting.It must also support operator for adding two counters and storing the result in another counter.

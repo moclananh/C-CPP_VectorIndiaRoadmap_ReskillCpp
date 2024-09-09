@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/WSL2/Coding/2.CPP/2.Coding/1.AssignmentCode/2.Assignment_2_PGMS/8.VirtualFuncAndExceptionHandling/3.MyStack",
+      "program": "d:/WSL2/Coding/2.CPP/2.Coding/1.AssignmentCode/2.Assignment_2_PGMS/8.VirtualFuncAndExceptionHandling/3.MyStack/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

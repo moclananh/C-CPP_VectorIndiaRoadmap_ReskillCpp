@@ -1,0 +1,11 @@
+        -:    0:Source:_divide.cpp
+        -:    1:#include "mylib.h"
+        -:    2:#include <iostream>
+        7:    3:double divide(double a, double b)
+        -:    4:{
+        7:    5:    if (b == 0)
+        -:    6:    {
+        1:    7:        throw std::invalid_argument("Division by zero");
+        -:    8:    }
+        6:    9:    return a / b;
+        -:   10:}

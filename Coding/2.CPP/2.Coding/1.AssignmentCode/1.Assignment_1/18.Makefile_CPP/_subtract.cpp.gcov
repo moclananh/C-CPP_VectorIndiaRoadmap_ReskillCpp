@@ -1,0 +1,7 @@
+        -:    0:Source:_subtract.cpp
+        -:    1:#include "mylib.h"
+        -:    2:
+        9:    3:double subtract(double a, double b)
+        -:    4:{
+        9:    5:    return a - b;
+        -:    6:}

@@ -1,0 +1,1 @@
+consider that the base class stack is available.It does not take care of situations such as overflow or underflow.Enhance this class to MyStack which raises an exception whenever overflow or underflow error occurs.
