@@ -37,7 +37,7 @@ This repository contains all the resources and materials from the C/C++ Qt Reski
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/reskilling-cpp-qt.git
+   git clone https://github.com/moclananh/C-CPP_VectorIndiaRoadmap_ReskillCpp
    cd reskilling-cpp-qt
    ```
 
